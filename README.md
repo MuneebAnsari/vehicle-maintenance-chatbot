@@ -1,10 +1,10 @@
-# Vehicle Maintenance Chatbot App
+# Vehicle Maintenance Chatbot
 
 The Vehicle Maintenance Chatbot App is an application that allows users to upload their vehicle's owner/service manual in PDF format and ask questions related to their vehicle's maintenance, operation and health. The app leverages OpenAI Language Model, OpenAI embeddings and K-Nearest Neighbor (KNN) algorithm to predict accurate and relevant responses to the user's queries. Additionally, the app finds a relevant instructional video based on the user's query using Youtube Data API and extracts important procedure steps from the video's transcript, displaying each instructional step to the user along with the video segment for reference.
 
-## Demo
+## Demo (https://youtu.be/o8BI-6gtOSs)
 
-[![](https://github.com/MuneebAnsari/vehicle-maintenance-chatbot/assets/22268574/63bc55aa-bbb0-4a3a-8732-9922a88c1d2c)](https://github.com/MuneebAnsari/vehicle-maintenance-chatbot/assets/22268574/63bc55aa-bbb0-4a3a-8732-9922a88c1d2c)
+[![](https://github.com/MuneebAnsari/vehicle-maintenance-chatbot/assets/22268574/63bc55aa-bbb0-4a3a-8732-9922a88c1d2c)](https://github.com/MuneebAnsari/vehicle-maintenance-chatbot/assets/22268574/443e16c6-f71f-44df-a198-d73589b5fbf0)
 
 ## Features
 
