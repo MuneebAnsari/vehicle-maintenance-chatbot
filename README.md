@@ -16,7 +16,7 @@ The Vehicle Maintenance Chatbot App is an application that allows users to uploa
 
 - **Retrieve Answers from Manual:** The app understands the user queries and finds relevant answers within the manual.
 
-- **Displays a Video Guide For Mainetenance Tasks:** In addition to the answers from the service manual, an instructional video guide is provided for the user to follow along. The app extracts essential instructional steps from the video's transcript, ensuring that users receieve detailed and step-by-step instructions.
+- **Displays a Video Guide For Maintenance Tasks:** In addition to the answers from the service manual, an instructional video guide is provided for the user to follow along. The app extracts essential instructional steps from the video's transcript, ensuring that users receive detailed and step-by-step instructions.
   All the extracted steps are displayed to the user along with the corresponding video segment, allowing users to follow the instructions more effectively.
 
 ## Usage
