@@ -8,10 +8,6 @@ OPENAI_API_KEY = os.environ.get('OPENAI_API_KEY')
 openai.api_key = OPENAI_API_KEY
 
 
-def swag():
-    log.info("HELLLO FROM UTILS")
-
-
 def format_transcript(transcript):
     transcript = [{
         "start": str(item["start"]),
