@@ -4,7 +4,7 @@ The Vehicle Maintenance Chatbot App is an application that allows users to uploa
 
 ## Demo
 
-[![](https://github.com/MuneebAnsari/vehicle-maintenance-chatbot/assets/22268574/63bc55aa-bbb0-4a3a-8732-9922a88c1d2c)](https://github.com/MuneebAnsari/vehicle-maintenance-chatbot/assets/22268574/63bc55aa-bbb0-4a3a-8732-9922a88c1d2c)
+[![](https://github.com/MuneebAnsari/vehicle-maintenance-chatbot/assets/22268574/63bc55aa-bbb0-4a3a-8732-9922a88c1d2c)](https://github.com/MuneebAnsari/vehicle-maintenance-chatbot/assets/22268574/443e16c6-f71f-44df-a198-d73589b5fbf0)
 
 ## Features
 
