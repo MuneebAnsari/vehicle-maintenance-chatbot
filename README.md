@@ -10,6 +10,8 @@ The Vehicle Maintenance Chatbot App is an application that allows users to uploa
 
 - **Upload PDF Manual:** Users can upload their vehicle's owner/service manual in PDF format
 
+- **Recognize Vehicle** Recognizes the vehicle's make, model and year from the manual
+
 - **Ask Questions:** Users can ask various questions related to their vehicle, such as how to change a tire, how to perform maintenance tasks, troubleshooting tips, and more.
 
 - **Retrieve Answers from Manual:** The app understands the user queries and finds relevant answers within the manual.
