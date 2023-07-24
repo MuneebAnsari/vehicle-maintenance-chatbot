@@ -1,0 +1,70 @@
+.chat-message {
+  border: 1px solid transparent;
+  font-family: "Source Sans Pro", sans-serif, "Segoe UI", "Roboto", sans-serif;
+  background-color: #e4e6eb;
+  color: black;
+  padding: 10px 10px;
+  margin: 0px 7px;
+  border-radius: 10px;
+  word-wrap: break-word;
+  font-size: clamp(0.7rem, 2vw, 15px);
+}
+
+.chat-query-response-message {
+  border: 1px solid transparent;
+  font-family: "Source Sans Pro", sans-serif, "Segoe UI", "Roboto", sans-serif;
+  background-color: #e4e6eb;
+  color: black;
+  padding: 10px 10px;
+  margin: 0px 7px;
+  border-radius: 10px;
+  word-wrap: break-word;
+  font-size: clamp(0.7rem, 2vw, 15px);
+  width: 60%;
+  max-width: 60%;
+}
+
+.row-reverse {
+  flex-direction: row-reverse;
+  text-align: right;
+}
+
+.chat-item {
+  display: flex;
+  margin: 20px;
+}
+
+.loading {
+  display: inline-block;
+  clip-path: inset(0 1ch 0 0);
+  animation: l 2s steps(4) infinite;
+  font-weight: bold;
+}
+
+@keyframes l {
+  to {
+    clip-path: inset(0 -1ch 0 0);
+  }
+}
+.col-response-message {
+  border: 1px solid #e4e6eb;
+  padding: 10px;
+}
+.video-procedure-container {
+  padding-top: 12px;
+}
+
+.video-procedure-container h4 {
+  padding: 5px;
+  margin: 0;
+}
+
+.chat-message h4 {
+  padding: 5px;
+  margin: 0;
+}
+
+#panel1d-header,
+#panel2d-header {
+  font-weight: bold;
+}

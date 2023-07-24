@@ -1,0 +1,14 @@
+#root {
+  width: 60%;
+  margin: 0 auto;
+  height: 100vh;
+  position: relative;
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: auto auto 1fr 20fr auto;
+}
+h1 {
+  margin: 10px 0;
+  font-size: clamp(1.5rem, 5vw, 3rem);
+  line-height: 1.1;
+}

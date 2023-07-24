@@ -1,0 +1,13 @@
+.procedure-item-details {
+  display: grid;
+}
+
+.procedure-item-details-video {
+  padding: 10px;
+}
+
+.procedure-item-details-message {
+  padding: 10px;
+  font-weight: bold;
+  font-size: large;
+}

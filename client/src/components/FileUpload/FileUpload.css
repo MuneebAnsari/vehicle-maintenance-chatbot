@@ -1,0 +1,66 @@
+.file-upload-container {
+  display: flex;
+  /* justify-content: center;/ */
+  /* flex-direction: row; */
+  padding: 10px;
+  /* border: solid 2px red; */
+  justify-content: space-between;
+  background-color: #3a3b3c;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+
+.file-upload-label {
+  margin: 0 20px;
+  font-size: clamp(0.8rem, 3vw, 1.2rem);
+  display: inline-flex;
+  align-items: center;
+}
+
+.file-upload-action {
+  margin: 0 20px;
+}
+
+.file-upload-result-container {
+  display: flex;
+  margin: 10px 0;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.file-upload-result-details {
+  display: flex;
+  margin: 0 25px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.file-upload-result-clear {
+  margin: 0 25px;
+}
+.file-upload-result-name {
+  margin: 0 10px;
+  font-size: clamp(0.9rem, 2vw, 1.1rem);
+}
+
+.file-upload-result-clear-btn {
+  margin: 0;
+  font-size: clamp(0.8rem, 3vw, 1.2rem);
+}
+
+.file-upload-result-clear-btn:hover {
+  cursor: pointer;
+}
+
+/* .loading {
+  display: inline-block;
+  clip-path: inset(0 1ch 0 0);
+  animation: l 2s steps(4) infinite;
+  font-weight: bold;
+}
+
+@keyframes l {
+  to {
+    clip-path: inset(0 -1ch 0 0);
+  }
+} */
